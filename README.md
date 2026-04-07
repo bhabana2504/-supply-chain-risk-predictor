@@ -159,7 +159,7 @@ Response:
 
 ## Areas of Improvement
 
-This is a base-level project built for learning and resune purposes. Planned improvements include:
+This is a base-level project built for learning and resume purposes. Planned improvements include:
 
 - Add a database (PostgreSQL) to store prediction history
 - Improve model accuracy with more real-world training data
