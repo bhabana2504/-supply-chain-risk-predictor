@@ -157,6 +157,17 @@ Response:
 
 **Health check:** `GET /api/health`
 
+## Areas of Improvement
+
+This is a base-level project built for learning and resune purposes. Planned improvements include:
+
+- Add a database (PostgreSQL) to store prediction history
+- Improve model accuracy with more real-world training data
+- Add user authentication for multi-user support
+- Deploy to cloud (Render / Railway / AWS)
+- Add automated model retraining when data drifts
+- Write proper unit tests for all endpoints
+- Add input validation and better error messages on the frontend
 ---
 
 ## License
